@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import SolarSystem from './SolarSystem';
 
 class Title extends Component {
@@ -11,4 +12,7 @@ class Title extends Component {
     );
   }
 }
+
+Title.propTypes = { headline: PropTypes.string.isRequired };
+
 export default Title;
