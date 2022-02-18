@@ -1,0 +1,89 @@
+LOG & DIRETRIZES DE DESENVOLVIMENTO - beta.
+
+*INICIO: 	
+
+1- LER DOCUMENTAÇÃO.
+
+2- CLONAR REPOSITÓRIO E PULL REQUEST. 
+
+******************************************************************
+-FLOW DE DESENVOLVIMENTO POR REQUISITO: 
+
+2 - CRIAR TESTES.
+
+3 - CODAR.
+
+4 - VERIFICAR E CORRIGIR LINTER.
+
+5 - COMMITAR E DAR PUSH.
+
+******************************************************************
+-DIARIO DE DESENVOLVIMENTO:
+
+DAY 1:
+
+-METAS: 
+
+
+
+-FEITO:
+----------------------------------------------
+DAY 2:
+
+METAS: 
+
+
+
+FEITO:
+
+----------------------------------------------
+
+DAY 3:
+
+-METAS: 
+
+
+
+-FEITO:
+----------------------------------------------
+DAY 4:
+
+-METAS: 
+
+
+
+-FEITO:
+----------------------------------------------
+
+DAY 5:
+
+-METAS: 
+
+
+
+-FEITO:
+*************************************************************************************************
+-BABYSTEPS DE DESENVOLVIMENTO:
+
+REQUISITO 1 :
+
+REQUISITO 2 :
+
+REQUISITO 3 :
+
+REQUISITO 4 :
+
+REQUISITO 5 :
+
+REQUISITO 6 :
+
+REQUISITO 7 :
+
+REQUISITO 8 :
+
+REQUISITO 9 :
+
+REQUISITO 10:
+******************************************************************************************************
+
+
